@@ -3,4 +3,4 @@ In android 5.0 (Lollipop), Google introduced two new Widgets: RecyclerView and C
 
 http://www.exoguru.com/android/ui/cardview/custom-android-list.html
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Sample App")
+![Alt text](/pic.png?raw=true "Sample App")
